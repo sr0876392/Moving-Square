@@ -11,6 +11,7 @@ var square = {
        $.backgroundColor = "red";
        $.transition = "background 0.3s";
        $.position = "absolute";
+       $.borderRadius = "15px";
     }
 }
 var movingSquare = {
