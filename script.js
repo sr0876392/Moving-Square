@@ -9,7 +9,7 @@ var square = {
        $.height = '128px';
        $.width = '128px';
        $.backgroundColor = "red";
-       $.transition = "background 0.3s";
+       $.transition = "background 0.5s";
        $.position = "absolute";
        $.borderRadius = "15px";
     }
